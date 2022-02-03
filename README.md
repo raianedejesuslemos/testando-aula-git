@@ -2,5 +2,5 @@
 praticando com a prof
 
 testando um envio de git add !!!
-outra alteracao para testar  
-mais uma alteracao parab ver se vaaaai pelo visto algo de errado nao esta certooo
+vejamos se agora vai sem problemas...
+um item outro item
